@@ -14,6 +14,10 @@ We’ll be analyzing the company’s culture using NLP(Natural Language Processi
 
 * **Visualization:** We are utilizing various visualization techniques such as bar charts, pie charts and scatter plots to present the findings of the analysis in a visually appealing and informative manner.
 
+* **Word Frequency Calculation:** Once the text data is preprocessed, you need to calculate the frequency of each word in the corpus. This involves counting the occurrence of each unique word in the text.
+
+* **Word Cloud Generation:** After obtaining the word frequencies, you can use a word cloud library or implementation to generate the visual representation of the word cloud. The size or prominence of each word in the cloud is typically determined by its frequency in the text.
+
 * **Interpretation and Insights:** Analyze the results of the NLP techniques applied and draw meaningful conclusions about the company culture. Look for patterns, trends, strengths, weaknesses, and opportunities for improvement. Use the insights gained to make data-driven decisions for shaping or transforming the company culture.
 
 **After the Interpretation the user can analyze the various aspects of company culture including:**
