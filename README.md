@@ -1,5 +1,7 @@
 # Company Culture Analysis:
 
+* **We've used the dataset from the given link: https://www.kaggle.com/datasets/muhammedabdulazeem/employer-review-about-their-organization**
+
 Company culture analysis refers to the process of evaluating and understanding the shared values, beliefs, behaviors, and practices within an organization. It involves examining the overall environment, norms, and patterns of behavior that exist within a company. The purpose of company culture analysis is to gain insights into the organization's culture, identify strengths and weaknesses, and make informed decisions for improving or leveraging the culture to achieve desired outcomes.
 
 We’ll be analyzing the company’s culture using NLP(Natural Language Processing) which will provide valuable insights into the organization’s beliefs and practices.
